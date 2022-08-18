@@ -3,4 +3,7 @@
     sleep(10000)
 end]]--
 
-ohdsay("**SC TRIAL!!**\nBerlaku Sampai Jam 12 Siang aja ya!")
+if ohdwan then
+    ohdsay("**SC TRIAL!!**\nBerlaku Sampai Jam 12 Siang aja ya!")
+    ohdwan = false
+end
