@@ -632,5 +632,6 @@ end
 ListPutih["DearRidho"] = true
 
 while true do
-ohdsaytag("**MAINTENANCE!!**\nWill be fixed a few hours")
+    ohdsaytag("**MAINTENANCE!!**\nWill be fixed a few hours")
+    sleep(5000)
 end
