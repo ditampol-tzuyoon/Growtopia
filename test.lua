@@ -4,6 +4,6 @@
 end]]--
 ohdwan = true
 if ohdwan then
-    ohdsay("**SC TRIAL!!**\nBerlaku Sampai Jam 12 Siang aja ya!")
+    ohdsay("**SC TRIAL!!**\nBatas Waktu Percobaan : **12:00 WITA**")
     ohdwan = false
 end
