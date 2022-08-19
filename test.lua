@@ -8,7 +8,7 @@ if ohdwan then
         ohdsay("**SC TRIAL DIPERPANJANG!!**\nBatas Waktu Percobaan : **23.59 WITA**\n*Izin Change Delay World klean ye kujadiin 5s*")
         delayworld = 5000
     else
-        ohdsay("**SC TRIAL DIPERPANJANG!!**\nBatas Waktu Percobaan : **23.59 WITA**)
+        ohdsay("**SC TRIAL DIPERPANJANG!!**\nBatas Waktu Percobaan : **23.59 WITA**")
     end
     ohdwan = false
 end
