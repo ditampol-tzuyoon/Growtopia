@@ -3,7 +3,6 @@
     sleep(10000)
 end]]--
 
-ohdwan = true
 if ohdwan then
     ohdsay("**SC TRIAL DIPERPANJANG!!**\nBatas Waktu Percobaan : **23.59 WITA**")
     ohdwan = false
