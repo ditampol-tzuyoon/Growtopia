@@ -18,4 +18,3 @@ if delayworld ~= 5000 then
     delayworld = 5000
 end
 
-ohdsaytag("Hello Ges, Waktu klian sisa 3 Jam Lebih lagi\n**~Ohdear2320**")
