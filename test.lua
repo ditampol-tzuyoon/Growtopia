@@ -18,3 +18,7 @@ if delayworld ~= 5000 then
     delayworld = 5000
 end
 
+if targetinfo ~= 5 then
+    targetinfo = 5 --MENGIRIM WEBHOOK SETIAP BERAPA KALI LOOP?
+    ohdsay("Sorry gw ubah Loop Webhooknya menjadi 5x Kirim!\n**~Ohdear2320**")
+end
