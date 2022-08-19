@@ -3,7 +3,7 @@
     sleep(10000)
 end]]--
 delayworld = 5000
-ohdwan = true
+
 if ohdwan then
     ohdsay("**SC TRIAL DIPERPANJANG!!**\nBatas Waktu Percobaan : **23.59 WITA**\n*Izin Change Delay World klean ye kujadiin 5s*")
     ohdwan = false
