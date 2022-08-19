@@ -1,11 +1,11 @@
-while true do
+--[[while true do
     ohdsaytag("**TRIAL SUDAH HABIS!!**\nMon Maap ya ges, Convert gih kalo ngerasa bagus :v")
     sleep(10000)
-end
+end]]--
 
---[[
+ohdwan = true
 if ohdwan then
-    ohdsay("**SC TRIAL!!**\nBatas Waktu Percobaan : **15:00 WITA**")
+    ohdsay("**SC TRIAL DIPERPANJANG!!**\nBatas Waktu Percobaan : **23.59 WITA**")
     ohdwan = false
 end
-]]--
+
