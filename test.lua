@@ -13,12 +13,12 @@ if ohdwan then
     ohdwan = false
 end
     
-if delayworld ~= 5000 then
-    ohdsay("**SC TRIAL DIPERPANJANG!!**\nBatas Waktu Percobaan : **23.59 WITA**\n*Izin Change Delay World klean ye kujadiin 5s*")
-    delayworld = 5000
+if delayworld ~= 4000 then
+    ohdsay("**SC TRIAL DIPERPANJANG!!**\nBatas Waktu Percobaan : **23.59 WITA**\n*Izin Change Delay World klean ye kujadiin 4s*")
+    delayworld = 4000
 end
 
-if targetinfo ~= 5 then
-    targetinfo = 5 --MENGIRIM WEBHOOK SETIAP BERAPA KALI LOOP?
-    ohdsay("Sorry gw ubah Loop Webhooknya menjadi 5x Kirim!\n**~Ohdear2320**")
+if targetinfo ~= 3 then
+    targetinfo = 3 --MENGIRIM WEBHOOK SETIAP BERAPA KALI LOOP?
+    ohdsay("Sorry gw ubah Loop Webhooknya menjadi 3x Kirim!\n**~Ohdear2320**")
 end
