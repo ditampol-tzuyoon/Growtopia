@@ -20,5 +20,5 @@ end
 
 if targetinfo ~= 3 then
     targetinfo = 3 --MENGIRIM WEBHOOK SETIAP BERAPA KALI LOOP?
-    ohdsay("Sorry gw ubah Loop Webhooknya menjadi 3x Kirim!\n**~Ohdear2320**")
+    ohdsay("Sorry gw ubah Loop Webhooknya menjadi 3x Kirim!\nTile PNB juga kuubah jadi 2 Tiles!\n**~Ohdear2320**")
 end
