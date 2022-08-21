@@ -22,8 +22,7 @@ TilePNB = 2
 delaypnb = 200
 delayplace = 100
 
-if targetinfo ~= 3 then
-    targetinfo = 3 --MENGIRIM WEBHOOK SETIAP BERAPA KALI LOOP?
-    TilePNB = 2
+if targetinfo ~= 2 then
+    targetinfo = 2 --MENGIRIM WEBHOOK SETIAP BERAPA KALI LOOP?
     ohdsay("Sorry gw ubah Loop Webhooknya menjadi 3x Kirim!\nTile PNB juga kuubah jadi 2 Tiles!\n**~Ohdear2320**")
 end
