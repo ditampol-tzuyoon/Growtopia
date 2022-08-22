@@ -11,6 +11,7 @@ end
 TilePNB = 5
 delaypnb = 190
 delayplace = 90
+batasdc = 99999
 
 if targetinfo ~= 2 then
     targetinfo = 2 --MENGIRIM WEBHOOK SETIAP BERAPA KALI LOOP?
