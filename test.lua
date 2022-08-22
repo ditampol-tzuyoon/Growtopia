@@ -9,7 +9,7 @@ if delayworld ~= 4000 then
 end
 
 TilePNB = 5
-delaypnb = 150
+delaypnb = 190
 delayplace = 90
 
 if targetinfo ~= 2 then
