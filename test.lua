@@ -9,8 +9,8 @@ if delayworld ~= 4000 then
 end
 
 TilePNB = 5
-delaypnb = 190
-delayplace = 100
+delaypnb = 125
+delayplace = 75
 
 if targetinfo ~= 2 then
     targetinfo = 2 --MENGIRIM WEBHOOK SETIAP BERAPA KALI LOOP?
