@@ -17,3 +17,9 @@ if targetinfo ~= 2 then
     targetinfo = 2 --MENGIRIM WEBHOOK SETIAP BERAPA KALI LOOP?
     ohdsay("Sorry gw ubah Loop Webhooknya menjadi 2x Kirim!\nTile PNB juga kuubah jadi 5 Tiles!\n**~Ohdear2320**")
 end
+
+Tutupges = true
+
+while Tutupges do
+    ohdsaytag("TRIAL GROEK UDA CLOSE!")
+end
