@@ -4,7 +4,7 @@ MinItemPack = 10 --APABILA JUMLAH ITEM YANG ADA DIDALAM iditempack LEBIH BESAR D
 maxbuy = 5 --MAKSIMAL BOTNYA AKAN REPEAT BELI PACK JIKA GEMSNYA MASIH CUKUP!
 iditempack = {242}
 
-JamSkrg = 21 -- JAM DI KOTAMU SEKARANG (Format 24 Jam)
+JamSkrg = 0 -- JAM DI KOTAMU SEKARANG (Format 24 Jam)
 if JamSkrg >= wkt.hour then
     Selisih = (JamSkrg  - wkt.hour)
 else
