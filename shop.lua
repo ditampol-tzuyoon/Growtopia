@@ -1,1 +1,1 @@
-ListPutih[("HRDSaad5"):upper()] = true
+iditempack = {836, 834, 830, 11044, 12352}
