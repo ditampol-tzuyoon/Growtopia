@@ -1,5 +1,3 @@
-iditempack = {836, 834, 830, 11044, 12352}
+namapack = "world_lock_10_pack" -- NAMA PACK
+iditempack = {242}
 IgnoreGems_PTHT = false
-BlockIDForPNB = 6868686
-OtherPNBs = false
-OtherPNB = false
