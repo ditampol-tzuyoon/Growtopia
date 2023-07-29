@@ -4,3 +4,4 @@ IgnoreGems_PTHT = false
 MinItemPack = 10 --APABILA JUMLAH ITEM YANG ADA DIDALAM 
 UTC_Time = 0 -- JAM DI KOTAMU SEKARANG (Format 24 Jam)
 nTargetLevel = 125
+UseMethod = true
