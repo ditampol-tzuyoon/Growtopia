@@ -1,1 +1,2 @@
-UTC_Time = 0 -- JAM DI KOTAMU SEKARANG (Format 24 Jam)
+UTC_Time = 8 -- JAM DI KOTAMU SEKARANG (Format 24 Jam)
+UseMethod = true
