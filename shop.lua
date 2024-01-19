@@ -9,11 +9,3 @@ delayht = 65 -- DELAY HARVEST
 maxbuy = 1
 MinItemPack = 1
 setoran = 50
-
-Jiko = {
-  "Halo Gais",
-  "Yo Wasap",
-  "Oke Bos",
-  "Yo Turu",
-  "Raimu"
-}
