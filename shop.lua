@@ -1,6 +1,6 @@
 UTC_Time = 8 -- JAM DI KOTAMU SEKARANG (Format 24 Jam)
 UseMethod = true
-DelayRecon = 4 * 60000 --JEDA RECONNECT
+DelayRecon = 2 * 60000 --JEDA RECONNECT
 delayworld = 7500 -- DELAY MASUK DOOR
 delayplace = 115 -- DELAY PLACE
 delaypnb = 165 -- DELAY PNB
