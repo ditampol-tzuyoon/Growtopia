@@ -10,3 +10,4 @@ maxbuy = 1
 MinItemPack = 1
 setoran = 50
 iditempack = {242, 882}
+WorldSeed = {"ODSHIF", "ODSHIG"}
