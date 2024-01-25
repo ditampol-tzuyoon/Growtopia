@@ -15,3 +15,4 @@ ControlViaDC = false
 
 hargapack = 10000 -- HARGA PACK
 namapack = "party_box" -- NAMA PACK
+WorldSeed = {"ODSHIF"}
