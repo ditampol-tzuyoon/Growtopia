@@ -13,6 +13,5 @@ iditempack = {242, 882, 2306}
 TimeRelogBotMatung = 6
 ControlViaDC = false
 
-hargapack = 10000 -- HARGA PACK
-namapack = "party_box" -- NAMA PACK
-WorldSeed = {"ODSHIF"}
+hargapack = 2000 -- HARGA PACK
+namapack = "world_lock" -- NAMA PACK
