@@ -7,11 +7,13 @@ delaypnb = 165 -- DELAY PNB
 delayplant = 50 -- DELAY PLANT
 delayht = 65 -- DELAY HARVEST
 maxbuy = 1
-MinItemPack = 1
 setoran = 50
-iditempack = {242, 882, 2306}
 TimeRelogBotMatung = 6
 ControlViaDC = false
 
-hargapack = 2000 -- HARGA PACK
-namapack = "world_lock" -- NAMA PACK
+hargapack = 1000 -- HARGA PACK
+namapack = "ssp_10_pack" -- NAMA PACK
+MinItemPack = 20
+iditempack = {242, 882, 5706}
+
+WorldPack = {"ODPELK"}
