@@ -14,6 +14,6 @@ ControlViaDC = false
 hargapack = 1000 -- HARGA PACK
 namapack = "ssp_10_pack" -- NAMA PACK
 MinItemPack = 20
-iditempack = {242, 882, 5706}
+iditempack = {242, 882, 5706, 5036}
 
 WorldPack = {"ODPELK"}
