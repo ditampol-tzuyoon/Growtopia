@@ -10,7 +10,7 @@ delayht = 65 -- DELAY HARVEST
 maxbuy = 5
 setoran = 50
 TimeRelogBotMatung = 6
-ControlViaDC = false
+ControlViaDC = true
 
 hargapack = 1000 -- HARGA PACK
 namapack = "ssp_10_pack" -- NAMA PACK
