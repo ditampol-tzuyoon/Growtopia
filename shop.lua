@@ -17,3 +17,4 @@ namapack = "ssp_10_pack" -- NAMA PACK
 MinItemPack = 20
 iditempack = {242, 882, 5706, 5036}
 target_block = 200
+IgnoreGems_PTHT = true
