@@ -12,9 +12,9 @@ setoran = 50
 TimeRelogBotMatung = 6
 ControlViaDC = true
 
-hargapack = 1000 -- HARGA PACK
-namapack = "ssp_10_pack" -- NAMA PACK
-MinItemPack = 20
-iditempack = {242, 882, 5706, 5036, 5748, 5742, 5746}
+hargapack = 10000 -- HARGA PACK
+namapack = "cny_spray" -- NAMA PACK
+MinItemPack = 40
+iditempack = {5764, 882, 5706, 5036, 5748, 5742, 5746, 242}
 target_block = 200
 IgnoreGems_PTHT = true
