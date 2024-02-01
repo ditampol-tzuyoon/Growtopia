@@ -15,6 +15,6 @@ ControlViaDC = true
 hargapack = 1000 -- HARGA PACK
 namapack = "ssp_10_pack" -- NAMA PACK
 MinItemPack = 20
-iditempack = {242, 882, 5706, 5036}
+iditempack = {242, 882, 5706, 5036, 5748, 5742, 5746}
 target_block = 200
 IgnoreGems_PTHT = true
