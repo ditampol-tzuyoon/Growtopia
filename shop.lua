@@ -18,8 +18,8 @@ iditempack = {5764, 882, 5706, 5036, 5748, 5742, 5746, 242}
 target_block = 200
 
 if bot:getLocal().level < RarityLevel then
-  delayplant = 200 -- DELAY PLANT
-  delayht = 200 -- DELAY HARVEST
+  delayplant = 300 -- DELAY PLANT
+  delayht = 300 -- DELAY HARVEST
 else
   delayplant = 75 -- DELAY PLANT
   delayht = 85 -- DELAY HARVEST
