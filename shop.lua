@@ -16,7 +16,6 @@ namapack = "cny_spray" -- NAMA PACK
 MinItemPack = 40
 iditempack = {5764, 882, 5706, 5036, 5748, 5742, 5746, 242}
 target_block = 200
-IgnoreGems_PTHT = true
 
 if bot:getLocal().level < RarityLevel then
   delayplant = 200 -- DELAY PLANT
@@ -24,4 +23,12 @@ if bot:getLocal().level < RarityLevel then
 else
   delayplant = 75 -- DELAY PLANT
   delayht = 85 -- DELAY HARVEST
+end
+
+if block then
+  if block == 4584 then
+    IgnoreGems_PTHT = false
+  else
+    IgnoreGems_PTHT = true
+  end
 end
