@@ -14,7 +14,7 @@ ControlViaDC = true
 hargapack = 10000 -- HARGA PACK
 namapack = "cny_spray" -- NAMA PACK
 MinItemPack = 1
-iditempack = {5764, 5036, 242}
+iditempack = {5764, 242}
 target_block = 200
 
 if block then
