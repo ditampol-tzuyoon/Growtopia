@@ -33,5 +33,5 @@ if block then
   end
 end
 
-WorldWL = {"ODGRAAS", "ODGRAAS"}
-WorldWindow = {"ODGRAAS", "ODGRAAS"}
+WorldWL = {"ODERINE03", "ODERINE03"}
+WorldWindow = {"ODERINE03", "ODERINE03"}
