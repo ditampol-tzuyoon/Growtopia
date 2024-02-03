@@ -32,3 +32,6 @@ if block then
     IgnoreGems_PTHT = true
   end
 end
+
+WorldWL = {"ODGRAAS", "ODGRAAS"}
+WorldWindow = {"ODGRAAS", "ODGRAAS"}
