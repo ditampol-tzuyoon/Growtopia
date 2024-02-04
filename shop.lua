@@ -13,3 +13,7 @@ if block then
     IgnoreGems_PTHT = true
   end
 end
+
+WorldSeed = {"ODERSPQ"}
+WorldPack = {"ODERPPQ"}
+WorldSpec = "ODERIPQ"
