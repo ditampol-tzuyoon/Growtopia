@@ -5,6 +5,7 @@ DelayRecon = 15000 --JEDA RECONNECT
 delayworld = 8000 -- DELAY MASUK DOOR
 delayplace = 115 -- DELAY PLACE
 delaypnb = 165 -- DELAY PNB
+MinItemPack = 3
 
 if block then
   if block == 4584 then
