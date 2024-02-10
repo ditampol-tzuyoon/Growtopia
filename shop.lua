@@ -4,6 +4,8 @@ SpamText = true
 DelayRecon = 15000 --JEDA RECONNECT
 delayworld = 6000 -- DELAY MASUK DOOR
 delayplace = 115 -- DELAY PLACE
+delayht = 125 -- DELAY HARVEST
+delayplant = 125 -- DELAY PLANT
 delaypnb = 165 -- DELAY PNB
 MinItemPack = 3
 
