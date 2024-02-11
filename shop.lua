@@ -8,7 +8,7 @@ delayht = 125 -- DELAY HARVEST
 delayplant = 125 -- DELAY PLANT
 delaypnb = 165 -- DELAY PNB
 MinItemPack = 3
-JedaHW = 10
+JedaHW = 20
 
 if block then
   if block == 4584 then
