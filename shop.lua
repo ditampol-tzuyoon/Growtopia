@@ -7,6 +7,8 @@ delayplace = 115 -- DELAY PLACE
 delaypnb = 165 -- DELAY PNB
 MinItemPack = 3
 JedaHW = 20
+HW_Exit = true
+SimplePinghook = true
 
 if block then
   if block == 4584 then
