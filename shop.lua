@@ -7,6 +7,8 @@ delayplace = 115 -- DELAY PLACE
 delaypnb = 165 -- DELAY PNB
 MinItemPack = 3
 JedaHW = 10
+delayht = 110 -- DELAY HARVEST
+delayplant = 110 -- DELAY PLANT
 HW_Exit = true
 SimplePinghook = true
 
