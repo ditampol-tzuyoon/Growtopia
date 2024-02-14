@@ -11,11 +11,4 @@ delayht = 110 -- DELAY HARVEST
 delayplant = 110 -- DELAY PLANT
 HW_Exit = true
 SimplePinghook = true
-
-if block then
-  if block == 4584 or block == 5666 then
-    IgnoreGems_PTHT = false
-  else
-    IgnoreGems_PTHT = true
-  end
-end
+IgnoreGems_PTHT = false
