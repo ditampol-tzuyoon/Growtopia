@@ -13,7 +13,7 @@ HW_Exit = true
 SimplePinghook = true
 
 if block then
-  if block == 4584 then
+  if block == 4584 or block == 5666 then
     IgnoreGems_PTHT = false
   else
     IgnoreGems_PTHT = true
