@@ -6,7 +6,7 @@ delayworld = 7500 -- DELAY MASUK DOOR
 delayplace = 115 -- DELAY PLACE
 delaypnb = 165 -- DELAY PNB
 MinItemPack = 3
-JedaHW = 20
+JedaHW = 10
 HW_Exit = true
 SimplePinghook = true
 
