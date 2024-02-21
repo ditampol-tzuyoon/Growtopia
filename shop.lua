@@ -12,4 +12,3 @@ delayplant = 110 -- DELAY PLANT
 HW_Exit = true
 SimplePinghook = true
 IgnoreGems_PTHT = false
-WorldPack = {"PCAIZGZ"}
