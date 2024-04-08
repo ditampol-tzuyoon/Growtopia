@@ -6,7 +6,6 @@ DelayRecon = 20000 --JEDA RECONNECT
 delayworld = 5500 -- DELAY MASUK DOOR
 delayplace = 120 -- DELAY PLACE
 delaypnb = 170 -- DELAY PNB
-MinItemPack = 1
 JedaHW = 3
 delayht = 150 -- DELAY HARVEST
 delayplant = 250 -- DELAY PLANT
