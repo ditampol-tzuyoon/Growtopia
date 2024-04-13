@@ -14,3 +14,4 @@ SimplePinghook = true
 IgnoreGems_PTHT = false
 HW_Reconnect = true
 SetLevelWorld = 5
+TimeRelogBotMatung = 10
